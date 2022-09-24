@@ -20,8 +20,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-/* removed header from this as class within class should not be used */
-.seo {
+/* removed header from this as class within class should not be used and changed this to a id */
+#seo {
     color: #d9dcd6;
 }
 
@@ -76,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* combine benefits like group */
 .benefits {
     margin-right: 20px;
     padding: 20px;
